@@ -23,7 +23,7 @@
 /* ===================================
     1. 3rd Part CSS Libraries
 ====================================== */
-
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
 @import url("css/clear.css");
 @import url("css/sm-clean.css");
 @import url("css/owl.carousel.min.css");
@@ -46,7 +46,7 @@
 }
 
 body {
-    font-family:'MyWebFont', 'Poppins';
+    font-family:'MyWebFont', 'Crimson Text';
     font-size: 15px;    
     line-height: 30px;
     font-weight: 400;       
@@ -56,7 +56,7 @@ body {
 }
 
 body a {
-    font-family: 'Poppins';
+    font-family: 'Crimson Text';
     text-decoration: none;
     color: #000000;    
     transition: color .3s linear;
@@ -94,7 +94,7 @@ body img {
 }
 
 p {
-    font-family: 'Poppins';
+    font-family: 'Crimson Text';
     margin-bottom: 30px;
 }
 
@@ -103,7 +103,7 @@ p {
 }
 
 .section-info {
-    font-family: 'Poppins';
+    font-family: 'Crimson Text';
     color: #e4a98b;
     font-size: 22px;
     line-height: 35px;
@@ -138,7 +138,7 @@ a.button:hover {
 ====================================== */
 
 .content-left {
-    font-family: 'Poppins';
+    font-family: 'Crimson Text';
     position: fixed;
     width: 380px;
     background-color: white;
@@ -669,7 +669,7 @@ h1.entry-title {
 }
 
 .service-text {
-    font-family: 'Poppins';
+    font-family: 'Crimson Text';
     color: #e4a98b
 }
 
@@ -1162,7 +1162,7 @@ span.timeline-circle:before {
 }
 
 .timeline-event-date {
-    font-family: 'Poppins';
+    font-family: 'Crimson Text';
     position: absolute;
     left: -115px;
     top: 2px;
@@ -1176,7 +1176,7 @@ li.timeline-event:hover .timeline-event-date {
 }
 
 .timeline-event-content {
-    font-family: 'Poppins';
+    font-family: 'Crimson Text';
     line-height: 160%;
     text-align: left;
     margin-left: 50px;
@@ -1309,7 +1309,7 @@ p.skill-circle-text {
     margin: 10px 0;
     height: 28px;
     font-size: 14px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Crimson Text', sans-serif;
     width: 100%;
     line-height: 25px;
     background-color: transparent;
@@ -1340,7 +1340,7 @@ p.contact-submit-holder {
     text-decoration: none;
     background-color: transparent;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Crimson Text', sans-serif;
     font-weight: 700;
     width: 100%;
     letter-spacing: 8px;
@@ -1356,7 +1356,7 @@ p.contact-submit-holder {
 .contact-form input[type=text]::-webkit-input-placeholder, 
 .contact-form input[type=email]::-webkit-input-placeholder, 
 .contact-form textarea::-webkit-input-placeholder {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Crimson Text', sans-serif;
     color: white;
     font-weight: 400;
     font-size: 14px;
@@ -1367,7 +1367,7 @@ p.contact-submit-holder {
 .contact-form input[type=text]:-ms-input-placeholder, 
 .contact-form input[type=email]:-ms-input-placeholder, 
 .contact-form textarea:-ms-input-placeholder {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Crimson Text', sans-serif;
     color: white;
     font-weight: 400;
     font-size: 14px;
@@ -1378,7 +1378,7 @@ p.contact-submit-holder {
 .contact-form input[type=text]::placeholder, 
 .contact-form input[type=email]::placeholder, 
 .contact-form textarea::placeholder {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Crimson Text', sans-serif;
     color: white;
     font-weight: 400;
     font-size: 14px;
